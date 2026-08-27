@@ -7,7 +7,7 @@ Smart India Hackathon 2026 Prototype
 Farmers often make selling decisions based on the highest Gross Mandi Price. However, this is a trap. Chasing a price that is ₹2/kg higher at a market 50km away often results in a net loss due to transportation costs, APMC taxes, and transit spoilage. 
 
 ## 💡 The Solution
-KisanSetu-NRV flips the model. Instead of gross price, we calculate the Net Realizable Value (NRV) — the actual money that goes into the farmer's pocket. 
+AgriConnect flips the model. Instead of gross price, we calculate the Net Realizable Value (NRV) — the actual money that goes into the farmer's pocket. 
 
 We deliver this intelligence directly to the farmer's phone via a lightweight, accessible Telegram Bot, requiring zero app installations or technical literacy.
 
